@@ -3,7 +3,7 @@
 
 set -e
 
-REPO="tabctrl-io/tab_control_go"
+REPO="tabctrl-io/tabctrl-io"
 BINARY_NAME="mcp-tab-control"
 
 # 1. Detect OS & Architecture
