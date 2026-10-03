@@ -12,7 +12,7 @@ MCP Tab Control requires two pieces to function: a background system daemon and 
 Open your terminal and run the following command to download and install the background router:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/tabctrl-io/tab_control_io/main/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/tabctrl-io/tabctrl-io/main/scripts/install.sh | bash
 ```
 Once installed, start the background service:
 ```bash
